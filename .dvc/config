@@ -1,2 +1,4 @@
 ['remote "myremote"']
     url = gdrive://1XOAm-N88wgYPxbKmZczaJ5UR4E8uqflx
+['remote "ssh_remote"']
+    url = ssh://administrator@192.168.243.14/home/administrator/dvc_storage
